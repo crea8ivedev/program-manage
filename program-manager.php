@@ -332,7 +332,7 @@ class WP_Program_Manager {
 					var pw_id = $(this).attr('pw_id');
 					swal({
 					  title: "Are you sure?",
-					  text: "Once deleted, you will not be able to recover this program weeks!",
+					  text: "Once deleted, you will not be able to recover this program week!",
 					  icon: "warning",
 					  buttons: true,
 					  dangerMode: true,
